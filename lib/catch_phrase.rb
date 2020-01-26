@@ -1,3 +1,3 @@
 def catch_phrase
-  puts phrase = it me mario
+  puts phrase
 end
